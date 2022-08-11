@@ -2,6 +2,8 @@
 <div>
   test
   ....
+  <a-button type="dashed">Dashed Button</a-button>
+
 </div>
 </template>
 
